@@ -1,4 +1,4 @@
-# LLM and Agent Learning Path
+# LLM Mastery: LLM and Agent Learning Path
 
 A practical, project-based roadmap for learning large language models (LLMs) and AI agents—from foundations to reliable production systems.
 
@@ -22,7 +22,9 @@ By the end of this path, you should be able to:
 
 ## Roadmap
 
-The detailed curriculum is in [LEARNING_OUTLINE.md](LEARNING_OUTLINE.md).
+The detailed curriculum is in [LEARNING_OUTLINE.md](LEARNING_OUTLINE.md). Start with
+[Module 1: Environment, Python, and the LLM landscape](modules/01-environment-and-python/README.md),
+which includes verified video, course, reading, and code links.
 
 | Phase | Weeks | Focus | Deliverable |
 | --- | ---: | --- | --- |
@@ -38,6 +40,9 @@ The detailed curriculum is in [LEARNING_OUTLINE.md](LEARNING_OUTLINE.md).
 .
 ├── README.md
 ├── LEARNING_OUTLINE.md
+├── modules/
+│   └── 01-environment-and-python/
+│       └── README.md
 ├── notes/
 ├── exercises/
 ├── projects/
@@ -49,6 +54,7 @@ The detailed curriculum is in [LEARNING_OUTLINE.md](LEARNING_OUTLINE.md).
 
 ## Progress tracker
 
+- [ ] [Module 1: Environment, Python, and the LLM landscape](modules/01-environment-and-python/README.md)
 - [ ] Phase 1: Foundations
 - [ ] Phase 2: Building with LLMs
 - [ ] Phase 3: Retrieval and RAG

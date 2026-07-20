@@ -2,7 +2,10 @@
 
 ## Phase 1 — Foundations (Weeks 1–2)
 
-### Module 1: Essential Python and machine learning
+### [Module 1: Environment, Python, and the LLM landscape](modules/01-environment-and-python/README.md)
+
+The full week plan includes direct links to the videos, official course pages,
+lecture code, repositories, reading, exercises, and a completion checklist.
 
 Learn:
 
